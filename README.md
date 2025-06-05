@@ -15,8 +15,8 @@ Per l'installazione e l'utilizzo del progetto consigliamo i seguenti programmi:
 ## Utilizzo
 Chiunque sia in possesso della chiave per decriptare ed estrarre il file può avviarlo ed usufruire di esso per scopi ricreativi.  
 Ovviamente stiamo parlando di un videogioco quindi il suo utilizzo improprio consiste nella modifica dei file, non del suo utilizzo.  
-Nessuno tranne me ed i miei collaboratori (eccetto concessioni che faremo in futuro) può modificare il progetto e/o appropriarsi di esso.  
-Ovviamente utilizzarlo per scopo di lucro è ovviamente proibito.  
+Nessuno tranne me ed i miei collaboratori (eccetto possibili concessioni che faremo in futuro) può modificare il progetto e/o appropriarsi di esso.  
+Ovviamente utilizzarlo per scopo di lucro è proibito.  
 Ulteriori modifiche al regolamento potrebbero verificarsi in futuro.
 
 ## License
